@@ -1,2 +1,3 @@
 # Larping-Hub
-32aarch on discord
+Jujutsu Shenanigans HUB.
+Check Logs on Discord
